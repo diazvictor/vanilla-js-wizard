@@ -1,0 +1,7 @@
+.wizard .wizard-steps [data-step] {
+	display: none
+}
+
+.wizard .wizard-steps [data-step].active {
+	display: block
+}
